@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+"$basetexture" "nsnf/ddr/arrow"
+"proxies" 
+{
+"TextureScroll"
+{
+"texturescrollvar" "$basetexturetransform"
+"texturescrollrate" "0.15"
+"texturescrollangle" "-90"
+} 
+}
+}

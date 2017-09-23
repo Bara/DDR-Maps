@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{"$basetexture" "nsnf/ddr/life"
+"proxies" 
+{
+"TextureScroll"
+{
+"texturescrollvar" "$basetexturetransform"
+"texturescrollrate" "0.03"
+"texturescrollangle" "0"
+} 
+}
+}

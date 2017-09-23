@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// original shader: basetimeslightmap
+	"$basetexture" "customdev/dev_measuregeneric01red"
+	"$surfaceprop" "concrete"
+	"%keywords" "tf"
+}

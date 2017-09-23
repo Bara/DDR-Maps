@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "nsnf/ddr/semigris"
+	"$translucent" "1"
+"proxies" 
+{
+"TextureScroll"
+{
+"texturescrollvar" "$basetexturetransform"
+"texturescrollrate" "0.08"
+"texturescrollangle" "-90"
+} 
+}
+}
